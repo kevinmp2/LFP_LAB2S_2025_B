@@ -1,0 +1,11 @@
+nombre, carnet, cui, correo, carrera
+Juan Carlos Pérez, 201901234, 1234567890101, juan.perez@usac.edu.gt, Ingeniería en Sistemas
+María Elena García, 201902345, 1234567890102, maria.garcia@usac.edu.gt, Ingeniería Civil
+Luis Fernando López, 201903456, 1234567890103, luis.lopez@usac.edu.gt, Ingeniería en Sistemas
+Ana Sofia Rodríguez, 201904567, 1234567890104, ana.rodriguez@usac.edu.gt, Ingeniería Industrial
+Carlos Eduardo Morales, 201905678, 1234567890105, carlos.morales@usac.edu.gt, Ingeniería Eléctrica
+Gabriela Isabel Herrera, 201906789, 1234567890106, gabriela.herrera@usac.edu.gt, Ingeniería en Sistemas
+Diego Alejandro Castillo, 201907890, 1234567890107, diego.castillo@usac.edu.gt, Ingeniería Mecánica
+Sofía Alejandra Mendoza, 201908901, 1234567890108, sofia.mendoza@usac.edu.gt, Ingeniería Civil
+Roberto José Vásquez, 201909012, 1234567890109, roberto.vasquez@usac.edu.gt, Ingeniería Química
+Carmen Lucia Jiménez, 201910123, 1234567890110, carmen.jimenez@usac.edu.gt, Ingeniería en Sistemas
