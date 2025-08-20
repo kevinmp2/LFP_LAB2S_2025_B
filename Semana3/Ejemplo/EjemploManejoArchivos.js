@@ -4,7 +4,10 @@
   Ejemplo Sistema De Gestion De Estudiantes
   Este ejemplo muestra cómo manejar un sistema de gestión de estudiantes 
   utilizando lectura y escritura de archivos.
- */
+ 
+ 
+ 
+  */
 
 // Importar el módulo 'fs' (File System) para leer y escribir archivos
 const fs = require('fs');
