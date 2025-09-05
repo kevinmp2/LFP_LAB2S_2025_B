@@ -49,7 +49,7 @@ npm start
 - El backend se ejecuta en `http://localhost:3001` por defecto.
 - Verifica que no haya errores en la terminal.
 
-![](/TourneyJS/imgs/Backend.png)
+![](./TourneyJS/imgs/Backend.png)
 
 ### 2. Levanta el Frontend
 
@@ -63,11 +63,11 @@ npm start
 - El frontend se ejecuta en `http://localhost:3000`.
 - Se abrirá automáticamente en tu navegador.
 
-![](/TourneyJS/imgs/Frontend.png)
+![](./TourneyJS/imgs/Frontend.png)
 
-![](/TourneyJS/imgs/InterfazGrafica.png)
-![](/TourneyJS/imgs/Tokens.png)
-![](/TourneyJS/imgs/Errores.png)
+![](./TourneyJS/imgs/InterfazGrafica.png)
+![](./TourneyJS/imgs/Tokens.png)
+![](./TourneyJS/imgs/Errores.png)
 ---
 
 ## Pruebas Básicas
