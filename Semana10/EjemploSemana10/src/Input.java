@@ -1,44 +1,39 @@
-public class Calculadora {
+// Entrada
+public class Ejemplo {
     public static void main(String[] args) {
-        // Declaraciones de variables
+        // Variables
         int numero = 42;
         double pi = 3.14;
-        char letra = 'A';
         String mensaje = "Hola Mundo";
         boolean activo = true;
         
-        /* Este es un comentario
-           de múltiples líneas */
-        
-        // Operaciones aritméticas
+        // Operaciones
         int suma = 10 + 20;
-        int resta = 50 - 30;
-        int multiplicacion = 5 * 6;
-        int division = 100 / 5;
         
-        // Operaciones de comparación
-        boolean mayor = numero > 30;
-        boolean menor = numero < 50;
-        boolean igual = numero == 42;
-        boolean diferente = numero != 0;
+        // Imprimir
+        System.out.println(mensaje);
+        System.out.println(suma);
         
-        // Incremento y decremento
-        numero++;
-        numero--;
-        
-        // Estructuras de control
-        if (numero >= 40) {
-            System.out.println(mensaje);
+        // Condicional
+        if (numero > 40) {
+            System.out.println("Mayor");
+            if (numero == 42) {
+                System.out.println("Es la respuesta");
+            }
         } else {
-            System.out.println("Número menor");
+            System.out.println("Menor");
         }
         
-        for (int i = 0; i < 10; i++) {
+        // Ciclo for
+        for (int i = 0; i < 5; i++) {
             System.out.println(i);
         }
         
-        while (activo) {
-            System.out.println("Ciclo while");
+        // Ciclo while
+        int contador = 0;
+        while (contador < 3) {
+            System.out.println(contador);
+            contador++;
         }
     }
 }
